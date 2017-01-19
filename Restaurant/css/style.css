@@ -2,22 +2,23 @@ body{
 	font-family:
 	color:white;
 	font-size: 16px;
-	background-color: pink;
+	
 }
 
 /** HEADER **/
 
 #header-nav{
-	background-color: purple;
+	background-color: #410102;;
 	border: 0;
 	border-radius: 0;
+	margin-bottom: 35px;
 }
 
 
 #logo-img {
   background: url('../image/restaurant-logo.png') no-repeat;
   width: 150px;
-  height: 150px;
+  height: 80px;
   margin: 10px 15px 10px 0;
 }
 
@@ -89,32 +90,32 @@ body{
 
 /* FOOTER */
 .panel-footer {
-  margin-top: 30px;
-  padding-top: 35px;
-  padding-bottom: 30px;
+  margin-top: 10px;
+  padding-top: 15px;
+  padding-bottom: 10px;
   background-color: #222;
   border-top: 0;
   color: white;
 }
 .panel-footer div.row {
-  margin-bottom: 35px;
+  margin-bottom: 15px;
 }
 #hours, #address {
-  line-height: 2;
+  line-height: 1.5;
 }
 #hours > span, #address > span {
   font-size: 1.3em;
 }
 #address p {
   color: #557c3e;
-  font-size: .8em;
-  line-height: 1.8;
+  font-size: .7em;
+  line-height: 1.4;
 }
 #testimonials {
   font-style: italic;
 }
 #testimonials p:nth-child(2) {
-  margin-top: 25px;
+  margin-top: 15px;
 }
 /* END FOOTER */
 

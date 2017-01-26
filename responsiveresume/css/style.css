@@ -1,0 +1,651 @@
+/*----------Desktop-------*/
+body{
+	background-color:#edeae6;
+}
+.profile-images-columns{
+	padding-left:0;
+}
+.profile-images{
+	width:100%;
+	border-left: 10px solid #c99110;
+    border-top: 10px solid #c99110;
+    border-right: 10px solid #c99110;
+    border-bottom: 10px solid #c99110;
+}
+.margin-top{
+	margin-top:40px;
+	margin-bottom:40px;
+}
+.box-shadow-main-div{
+	box-shadow: 0 0 10px 3px #c99110;
+	padding-top:20px;
+	padding-bottom:20px;
+}
+.porter-designer-margin-top{
+	margin-top:56px;
+}
+.porter-designer-margin-top h3{
+	font-weight: 600;
+    font-variant: small-caps;
+    color:#000;
+    font-family:Myriad Pro;
+}
+.porter-designer-margin-top h4{
+	color: #c99110;
+    font-weight: 400;
+    font-family:Myriad Pro
+} 
+.personal-data h4{
+	background-color: #ddd;
+    padding: 10px;
+    border-radius: 2px;
+    font-variant: small-caps;
+    font-weight:600;
+    margin-bottom: 6px;
+    color:#000;
+    font-family:Myriad Pro;
+}
+.personal-data-left-side-content{
+	margin-top:10px;
+}
+.personal-data-right-side-content{
+	margin-top:10px;
+}
+.personal-data-left-side-content p{
+    font-weight:600;
+    font-family:Myriad Pro;
+    font-size:15px;
+    margin-bottom:5px;
+    color:#000;
+}
+.personal-data-right-side-content p{
+	font-weight:400;
+    font-family:Myriad Pro;
+    font-size:15px;
+    margin-bottom:5px;
+    color:#000;
+}
+.about-content h4{
+	background-color: #ddd;
+    padding: 10px;
+    border-radius: 2px;
+    font-variant: small-caps;
+    font-weight:600;
+    color:#000;
+    font-family:Myriad Pro;
+}
+.about-content p{
+	font-weight:500;
+	font-size:15px;
+	font-family:Myriad Pro;
+	margin-bottom:5px;
+	text-align:justify;
+	color:#000;
+}
+.about-formal-education h4{
+	background-color: #ddd;
+    padding: 10px;
+    border-radius: 2px;
+    font-variant: small-caps;
+    font-weight:600;
+    margin-bottom: 6px;
+    color:#000;
+    font-family:Myriad Pro;
+}
+.formal-education-icon{
+	margin-top:10px;
+}
+.formal-eduavtion-master{
+	margin-top:10px;
+}
+.formal-education-icon span{
+	font-weight:500;
+	font-size: 15px;
+	font-family:Myriad Pro;
+	margin-bottom:4px;
+	text-align: center;
+    margin-left: 25px;
+    color:#000;
+}
+.formal-education-icon i{
+	color:#c99110;
+	font-size:16px;
+}
+.formal-eduavtion-master span{
+	font-size:16px;
+	font-family:Myriad Pro;
+	font-variant: small-caps;
+	color:#c99110;
+	margin-bottom:4px;
+}
+.formal-eduavtion-master h6{
+	font-weight:600;
+	font-family:Myriad Pro;
+	font-size:15px;
+	color:#000;
+	margin-bottom:4px;
+	margin-top:2px;
+}
+.formal-eduavtion-master p{
+	font-weight:500;
+	font-size: 15px;
+	font-family:Myriad Pro;
+	margin-bottom:4px;
+}
+.work-experiences h4{
+	background-color: #ddd;
+    padding: 10px;
+    border-radius: 2px;
+    font-variant: small-caps;
+    font-weight:600;
+    margin-bottom: 6px;
+    color:#000;
+    font-family:Myriad Pro;
+}
+.skills-content h4{
+	background-color: #ddd;
+    padding: 10px;
+    border-radius: 2px;
+    font-variant: small-caps;
+    font-weight:600;
+    margin-bottom: 6px;
+    color:#000;
+    font-family:Myriad Pro;
+}
+.skill-content-left{
+	margin-top:10px;
+}
+.skill-content-left p{
+	font-weight:600;
+	font-size: 15px;
+	font-family:Myriad Pro;
+	margin-bottom:20px;
+	color:#000;
+}
+.skill-content-right{
+	margin-top:10px;
+}
+.work-experience-left{
+	margin-top:10px;
+}
+.work-experience-right{
+	margin-top:10px;
+}
+.work-experience-left span{
+	font-weight:500;
+	font-size: 16px;
+	font-family:Myriad Pro;
+	margin-bottom:4px;
+	text-align: center;
+    margin-left: 25px;
+    color:#000;
+}
+.work-experience-left i{
+	color:#c99110;
+	font-size:16px;
+}
+.work-experience-right span{
+	font-size:16px;
+	font-family:Myriad Pro;
+	font-variant: small-caps;
+	color:#c99110;
+	margin-bottom:4px;
+}
+.work-experience-right h6{
+	font-weight:600;
+	font-family:Myriad Pro;
+	font-size:15px;
+	color:#000;
+	margin-bottom:4px;
+	margin-top:2px;
+}
+.work-experience-right p{
+	font-weight:500;
+	font-size: 15px;
+	font-family:Myriad Pro;
+	margin-bottom:4px;
+	text-align:justify;
+	color:#000;
+}
+.progress.active .progress-bar {
+    -webkit-transition: none !important;
+    transition: none !important;
+}
+.progress-bar{
+	background-color: #c99110;
+    border-radius: 1px;
+}
+.progress-skill-bar{
+	border-radius: 1px;
+	border: 1px solid black;
+}
+.social-icons{
+	margin:26px 0;
+}
+.social-icons-tweet i{
+	background-color: #c99110;
+    padding: 10px 13px;
+    border-radius: 100%;
+    color: #fff;
+    -webkit-transition-duration: 0.4s; /* Safari */
+  	transition-duration: 0.4s;
+}
+.social-icons-tweet i:hover{
+	background-color:#fff;
+	color:#1da1f2;
+	box-shadow: 0px 0px 0px 2px #000;
+}
+.social-icons-phone i{
+	background-color: #c99110;
+    padding: 9px 13px;
+    border-radius: 100%;
+    color: #fff;
+    -webkit-transition-duration: 0.4s; /* Safari */
+  	transition-duration: 0.4s;
+}
+.social-icons-phone i:hover{
+	background-color:#fff;
+	color:#1da1f2;
+	box-shadow: 0px 0px 0px 2px #000;
+}
+.social-icons-web i{
+	background-color: #c99110;
+    padding: 10px 13px;
+    border-radius: 100%;
+    color: #fff;
+    -webkit-transition-duration: 0.4s; /* Safari */
+  	transition-duration: 0.4s;
+}
+.social-icons-web i:hover{
+	background-color:#fff;
+	color:#1da1f2;
+	box-shadow: 0px 0px 0px 2px #000;
+}
+.social-icons-tweet a{
+	vertical-align: baseline;
+    font-size: 18px;
+    color: #000;
+    text-decoration: none;
+    font-weight: 600;
+    font-family: Myriad Pro;
+}
+.social-icons-phone a{
+	vertical-align: baseline;
+    font-size: 18px;
+    color: #000;
+    text-decoration: none;
+    font-weight: 600;
+    font-family: Myriad Pro;
+}
+.social-icons-web a{
+	vertical-align: baseline;
+    font-size: 18px;
+    color: #000;
+    text-decoration: none;
+    font-weight: 600;
+    font-family: Myriad Pro;
+}
+
+.title {
+  align:left;	 
+  text-decoration: normal;
+  -o-text-overflow: clip;
+  text-overflow: clip;
+  white-space: pre;
+  -webkit-transition: all 100ms cubic-bezier(0.42, 0, 0.58, 1);
+  -moz-transition: all 100ms cubic-bezier(0.42, 0, 0.58, 1);
+  -o-transition: all 100ms cubic-bezier(0.42, 0, 0.58, 1);
+  transition: all 100ms cubic-bezier(0.42, 0, 0.58, 1);
+}
+div .title{
+	
+	background-color: #d8b76c;
+}
+.title:hover {
+  color: rgba(255,255,255,1);
+  background: #ddd;
+  text-shadow: 0 0 10px rgba(24,109,39,1) , 0 0 20px rgba(79,232,71,1) , 0 0 30px rgba(33,247,22,1) , 0 0 40px #a5f968 , 0 0 80px #b4f771 , 0 0 100px #c5f78f ;
+  -webkit-transition: class="support css-value">all 200ms cubic-bezier(0.42, 0, 0.58, 1);
+  -moz-transition: all 200ms cubic-bezier(0.42, 0, 0.58, 1);
+  -o-transition: all 200ms cubic-bezier(0.42, 0, 0.58, 1);
+  transition: all 200ms cubic-bezier(0.42, 0, 0.58, 1);
+}
+/*---------------------- Large desktops and laptops ends -----------------------------------*/
+
+/*---------------------- Portrait phones and smaller Starts ---------------------------------*/
+@media (max-width: 480px) {
+	.margin-top{
+		margin-top:0;
+		margin-bottom:0;
+	}
+	.profile-images-columns{
+		padding-left:15px;
+	}
+	
+	.porter-designer-margin-top{
+		margin-top:0;
+		text-align:center;
+	}
+	.personal-data-left-side-content p{
+	    font-size:14px;
+	    color:#000;
+	}
+	.personal-data-right-side-content p{
+	    font-size:15px;
+	    color:#000;
+	}
+	.formal-education-icon span{
+		
+		font-size:14px;
+	}
+	.formal-eduavtion-master span{
+		font-size:13px;
+    }
+	.work-experience-left span{
+		margin-left:18px;
+		font-size:13px;
+	}
+	.work-experience-left i{
+		color:#c99110;
+		font-size:15px;
+	}
+	.skill-content-left p{
+		font-size: 14px;
+		color:#000;
+	}
+	.work-experience-right span{
+		font-size:13px;
+	}
+	.work-experience-right h6{
+		font-size:13px;
+	}
+	.social-icons-tweet a{
+		font-size:13px;
+	}
+	.social-icons{
+		margin:8px 0;
+	}
+	.social-icons-tweet i{
+		padding: 10px 11px;
+		font-size:15px;
+	}
+	.social-icons-phone i{
+		padding: 10px 11px;
+		font-size:15px;
+	}
+	.social-icons-phone a{
+		font-size:13px;
+	}
+	.social-icons-web i{
+		padding: 10px 11px;
+		font-size:15px;
+	}
+	.social-icons-web a{
+		font-size:13px;
+	}
+	.social-icons-tweet{
+		text-align: left;
+		margin-bottom:15px;
+	}
+	.social-icons-phone{
+		text-align: left;
+		margin-bottom:15px;
+	}
+	.social-icons-web{
+		text-align: left;
+	}
+}
+/*---------------------- Portrait phones and smaller ends ---------------------------------*/
+
+/*---------------------- Landscape phones and portrait tablets starts ----------------------*/
+
+@media (max-width: 767px) {
+	.margin-top{
+		margin-top:0;
+		margin-bottom:0;
+	}
+	.profile-images-columns{
+		padding-left:15px;
+	}
+	
+	.porter-designer-margin-top{
+		margin-top:0;
+		text-align:center;
+	}
+	.personal-data-left-side-content p{
+	    font-size:15px;
+	    color:#000;
+	}
+	.personal-data-right-side-content p{
+	    font-size:15px;
+	    color:#000;
+	}
+	.formal-education-icon span{
+		
+		font-size:14px;
+	}
+	.formal-eduavtion-master span{
+		font-size:14px;
+    }
+	.work-experience-left span{
+		margin-left:18px;
+		font-size:14px;
+	}
+	.work-experience-left i{
+		color:#c99110;
+		font-size:15px;
+	}
+	.skill-content-left p{
+		font-size: 15px;
+		color:#000;
+	}
+	.work-experience-right span{
+		font-size:14px;
+	}
+	.work-experience-right h6{
+		font-size:14px;
+	}
+	.social-icons-tweet a{
+		font-size:15px;
+	}
+	.social-icons{
+		margin:8px 0;
+	}
+	.social-icons-tweet i{
+		padding: 10px 11px;
+		font-size:15px;
+	}
+	.social-icons-phone i{
+		padding: 10px 11px;
+		font-size:15px;
+	}
+	.social-icons-phone a{
+		font-size:15px;
+	}
+	.social-icons-web i{
+		padding: 10px 11px;
+		font-size:15px;
+	}
+	.social-icons-web a{
+		font-size:15px;
+	}
+	.social-icons-tweet{
+		text-align: left;
+		margin-bottom:15px;
+	}
+	.social-icons-phone{
+		text-align: left;
+		margin-bottom:15px;
+	}
+	.social-icons-web{
+		text-align: left;
+	}
+}
+/*---------------------- Landscape phones and portrait tablets ends ----------------------*/
+
+/*---------------------- Portrait tablets and small desktops starts-----------------------*/
+@media (min-width: 768px) and (max-width: 991px) {
+	.margin-top{
+		margin-top:0;
+		margin-bottom:0;
+	}
+	.profile-images-columns{
+		padding-left:15px;
+	}
+	
+	.porter-designer-margin-top{
+		margin-top: 110px;
+		text-align:center;
+	}
+	.personal-data-left-side-content p{
+	    font-size:16px;
+	    color:#000;
+	}
+	.personal-data-right-side-content p{
+	    font-size:16px;
+	    color:#000;
+	}
+	.formal-education-icon span{
+		
+		font-size:16px;
+	}
+	.formal-eduavtion-master span{
+		font-size:16px;
+    }
+	.work-experience-left span{
+		margin-left:18px;
+		font-size:16px;
+	}
+	.work-experience-left i{
+		color:#c99110;
+		font-size:16px;
+	}
+	.work-experience-right span{
+		font-size:16px;
+	}
+	.work-experience-right h6{
+		font-size:16px;
+	}
+	.skill-content-left p{
+		font-size: 16px;
+		color:#000;
+	}
+	.social-icons{
+		margin:8px 0;
+	}
+	.social-icons-tweet a{
+		font-size:17px;
+	}
+	.social-icons-tweet i{
+		padding: 10px 13px;
+    	font-size: 19px;
+	}
+	.social-icons-phone i{
+		padding: 10px 13px;
+    	font-size: 19px;
+	}
+	.social-icons-phone a{
+		font-size:17px;
+	}
+	.social-icons-web i{
+		padding: 10px 13px;
+    	font-size: 19px;
+	}
+	.social-icons-web a{
+		font-size:17px;
+	}
+	.social-icons-tweet{
+		text-align: left;
+		margin-bottom:15px;
+	}
+	.social-icons-phone{
+		text-align: left;
+		margin-bottom:15px;
+	}
+	.social-icons-web{
+		text-align: left;
+	}
+}
+/*---------------------- Portrait tablets and small desktops ends-----------------------*/
+
+/*---------------------- Landscape tablets and medium desktops starts-------------------*/
+@media (min-width: 992px) and (max-width: 1199px) {
+	.profile-images-columns{
+		padding-left:0;
+	}
+	
+	.porter-designer-margin-top {
+    	margin-top: 42px;	
+	}
+	.personal-data-left-side-content p{
+	    font-size:17px;
+	    color:#000;
+	}
+	.personal-data-right-side-content p{
+	    font-size:16px;
+	    color:#000;
+	}
+	.formal-education-icon span{
+		
+		font-size:17px;
+	}
+	.work-experience-left span{
+		margin-left:18px;
+		font-size:17px;
+	}
+	.work-experience-left i{
+		color:#c99110;
+		font-size:17px;
+	}
+	.work-experience-right span{
+		font-size:17px;
+	}
+	.work-experience-right h6{
+		font-size:17px;
+	}
+	.skill-content-left p{
+		font-size: 17px;
+		color:#000;
+	}
+	.social-icons{
+		margin:8px 0;
+	}
+	.social-icons-tweet a{
+		font-size:17px;
+	}
+	.social-icons-tweet i{
+		padding: 10px 13px;
+    	font-size: 19px;
+	}
+	.social-icons-phone i{
+		padding: 10px 13px;
+    	font-size: 19px;
+	}
+	.social-icons-phone a{
+		font-size:17px;
+	}
+	.social-icons-web i{
+		padding: 10px 13px;
+    	font-size: 19px;
+	}
+	.social-icons-web a{
+		font-size:17px;
+	}
+	.social-icons-tweet{
+		text-align: left;
+		margin-bottom:15px;
+	}
+	.social-icons-phone{
+		text-align: left;
+		margin-bottom:15px;
+	}
+	.social-icons-web{
+		text-align: left;
+	}
+}
+/*---------------------- Landscape tablets and medium desktops ends-------------------*/
+
+
+
+
+

@@ -1,4 +1,3 @@
-
 $(document).ready(function(){
 	$("#progress-bar1").animate({
     	width: "90%"
@@ -26,6 +25,5 @@ $(document).ready(function(){
 	}, 6000);
 	$("#progress-bar9").animate({
     	width: "85%"
-	}, 6500);
-	
-})
+	}, 6500)	
+});

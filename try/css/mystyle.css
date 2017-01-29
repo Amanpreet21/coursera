@@ -63,12 +63,16 @@ body {
 }
 
 /* HOME PAGE */
-.container .jumbotron {
+
+
+#foodC, #foodB, #foodS {
   
-  
-  color: black;
-  font-size: .6em;
+  width: 100%;
+  margin-bottom: 15px;
+  position: relative;
   background-color: gray;
+  overflow: hidden;
+  padding: 10px;
 }
 
 

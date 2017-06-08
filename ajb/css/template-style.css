@@ -217,6 +217,7 @@ header {
 	margin: 1.25em 0;
 	text-transform: uppercase;
 }
+
 #features p {
 	color: #777;
 	font-size: 0.85em;
@@ -238,6 +239,13 @@ header {
 	padding: 4em;
 }
 article h2 {
+	font-size: 4em;
+	font-weight: 900;
+	letter-spacing: -2px;
+	line-height: 0.9;
+	margin: 0 0 0.625em 0
+}
+.aman {
 	font-size: 4em;
 	font-weight: 900;
 	letter-spacing: -2px;
@@ -311,6 +319,15 @@ h2.section-title:after {
 	width: 100px;
 }
 h2.section-title {
+	color: #dedede;
+	font-size: 3.8em;
+	font-weight: 700;
+	letter-spacing: -1px;
+	margin: 0 0 1.25em;
+	text-align: center;
+	text-transform: uppercase;
+}
+.servicestitle {
 	color: #dedede;
 	font-size: 3.8em;
 	font-weight: 700;
@@ -413,7 +430,9 @@ a.tab-label:hover, a.tab-label.active-btn {
 .service-text {
 	display: table;
 	position: relative;
+	font-size: 1.5em;
 }
+
 #services h3 {
 	color: #fff;
 	font-size: 1em;
@@ -479,6 +498,7 @@ form.customform button.color-btn {
 #contact h2 {
 	margin: 0 0 1.25em;
 }
+
 #contact h3 {
 	color: #92c500;
 	font-size: 1em;
@@ -504,8 +524,7 @@ form.customform button.color-btn {
 	text-align: center;
 	width: 26px;
 }
-#map-block {
-  
+#map-block {  
   height:300px;
   width:100%;
 }

@@ -78,7 +78,7 @@ header {
 }
 .logo1 {
 	color: #fff;
-	font-size: 1.0em;
+	font-size: 1.5em;
 	font-weight: 800;
 	position: relative;
 	font-style: italic;
@@ -87,12 +87,13 @@ header {
 }
 .logo2 {
 	color: #fff;
-	font-size: 1.0em;
+	font-size: 1.3em;
 	font-weight: 900;
 	font-style: italic;
 	position: relative;
 	text-transform: capitalize;
 	top: 0.325em;
+	margin:0px;
 }
 .logo1 strong {
 	font-weight: 700;

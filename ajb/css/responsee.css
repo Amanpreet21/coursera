@@ -31,13 +31,19 @@ a, a:link, a:visited, a:hover, a:active {
 	text-decoration:none;
   color:#444;
 	}
-img {
+.contactimg {
   border:0;
   display:block;
 	height:auto;
 	max-width:100%;
   width:auto;
 	}
+.imgservices img{
+	display: block;
+  max-height: 100;
+  max-width: 100;
+  
+}
 .owl-item img, .full-img {
   max-width: none;
 	width:100%;
